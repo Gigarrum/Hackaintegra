@@ -1,0 +1,71 @@
+#wrapper{
+	width: 80%;
+	margin: auto;
+	background-color: #c4c4c4;
+	font-family: arial;
+}
+
+#cover
+{
+	
+	height: 200px;
+	padding-left: 28%;
+	
+}
+
+#logo
+{
+	width: 85%;
+	height: 200px;
+
+}
+
+nav .link{
+	float: left;
+	width: 20%;
+	height: 40px;
+	text-align: center;
+	background-color: #a2a2a2;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 10px;
+}
+
+nav a{
+	font-size: 2em;
+	text-decoration: none;
+	color: black;
+}
+
+.clb {
+	clear:both;
+}
+
+#content
+{
+	
+	margin-top: 50px;
+	padding-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
+}
+
+#content p
+{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+
+footer 
+{
+	text-align: center;
+	height: 40px;
+	background-color: #b3b3b3;
+}
+
+
+
+
+
